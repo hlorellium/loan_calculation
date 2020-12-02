@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hlorellium/semrush_test/static/css/main.e61ee7f2.chunk.css",
-    "main.js": "/hlorellium/semrush_test/static/js/main.9ddf8777.chunk.js",
-    "main.js.map": "/hlorellium/semrush_test/static/js/main.9ddf8777.chunk.js.map",
-    "runtime-main.js": "/hlorellium/semrush_test/static/js/runtime-main.ee4fd575.js",
-    "runtime-main.js.map": "/hlorellium/semrush_test/static/js/runtime-main.ee4fd575.js.map",
-    "static/js/2.77cb747b.chunk.js": "/hlorellium/semrush_test/static/js/2.77cb747b.chunk.js",
-    "static/js/2.77cb747b.chunk.js.map": "/hlorellium/semrush_test/static/js/2.77cb747b.chunk.js.map",
-    "static/js/3.a2b66bd1.chunk.js": "/hlorellium/semrush_test/static/js/3.a2b66bd1.chunk.js",
-    "static/js/3.a2b66bd1.chunk.js.map": "/hlorellium/semrush_test/static/js/3.a2b66bd1.chunk.js.map",
-    "index.html": "/hlorellium/semrush_test/index.html",
-    "static/css/main.e61ee7f2.chunk.css.map": "/hlorellium/semrush_test/static/css/main.e61ee7f2.chunk.css.map",
-    "static/js/2.77cb747b.chunk.js.LICENSE.txt": "/hlorellium/semrush_test/static/js/2.77cb747b.chunk.js.LICENSE.txt"
+    "main.css": "/semrush_test/static/css/main.e61ee7f2.chunk.css",
+    "main.js": "/semrush_test/static/js/main.9ddf8777.chunk.js",
+    "main.js.map": "/semrush_test/static/js/main.9ddf8777.chunk.js.map",
+    "runtime-main.js": "/semrush_test/static/js/runtime-main.f62e6241.js",
+    "runtime-main.js.map": "/semrush_test/static/js/runtime-main.f62e6241.js.map",
+    "static/js/2.77fb1e1b.chunk.js": "/semrush_test/static/js/2.77fb1e1b.chunk.js",
+    "static/js/2.77fb1e1b.chunk.js.map": "/semrush_test/static/js/2.77fb1e1b.chunk.js.map",
+    "static/js/3.a2b66bd1.chunk.js": "/semrush_test/static/js/3.a2b66bd1.chunk.js",
+    "static/js/3.a2b66bd1.chunk.js.map": "/semrush_test/static/js/3.a2b66bd1.chunk.js.map",
+    "index.html": "/semrush_test/index.html",
+    "static/css/main.e61ee7f2.chunk.css.map": "/semrush_test/static/css/main.e61ee7f2.chunk.css.map",
+    "static/js/2.77fb1e1b.chunk.js.LICENSE.txt": "/semrush_test/static/js/2.77fb1e1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee4fd575.js",
-    "static/js/2.77cb747b.chunk.js",
+    "static/js/runtime-main.f62e6241.js",
+    "static/js/2.77fb1e1b.chunk.js",
     "static/css/main.e61ee7f2.chunk.css",
     "static/js/main.9ddf8777.chunk.js"
   ]
