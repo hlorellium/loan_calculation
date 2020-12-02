@@ -101,8 +101,9 @@ const Results = styled.div`
     }
     @media screen and (max-width: 992px) {
         margin: 0;
+        padding: 5px;
         .pair {
-            padding: 5px;
+            padding: 0px;
         }
         .row {
             width: 100vw;
