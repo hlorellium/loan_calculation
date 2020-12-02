@@ -61,14 +61,24 @@ const Form = styled.form`
         background-color: #43aa8b;
         color: #fff;
     }
+    @media screen and (max-width: 992px) {
+        width: 100vw;
+    }
 `;
 const CalculatorContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    @media screen and (max-width: 992px) {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
 `;
 const Results = styled.div`
-margin-left: 15px;
+    margin-left: 15px;
+    background-color: #bde0fe;
+
     .row {
         display: flex;
         justify-content: space-between;
@@ -77,7 +87,6 @@ margin-left: 15px;
     .pair {
         display: flex;
         flex-direction: column;
-        background-color: #bde0fe;
         padding: 15px;
         min-width: 200px;
     }
@@ -89,6 +98,15 @@ margin-left: 15px;
         font-weight: bold;
         font-size: 1.5em;
         color: #495057;
+    }
+    @media screen and (max-width: 992px) {
+        margin: 0;
+        .pair {
+            padding: 5px;
+        }
+        .row {
+            width: 100vw;
+        }
     }
 `;
 
