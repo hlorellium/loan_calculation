@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/semrush_test/static/css/main.e61ee7f2.chunk.css",
-    "main.js": "/semrush_test/static/js/main.474a8d32.chunk.js",
-    "main.js.map": "/semrush_test/static/js/main.474a8d32.chunk.js.map",
-    "runtime-main.js": "/semrush_test/static/js/runtime-main.f62e6241.js",
-    "runtime-main.js.map": "/semrush_test/static/js/runtime-main.f62e6241.js.map",
-    "static/js/2.77fb1e1b.chunk.js": "/semrush_test/static/js/2.77fb1e1b.chunk.js",
-    "static/js/2.77fb1e1b.chunk.js.map": "/semrush_test/static/js/2.77fb1e1b.chunk.js.map",
-    "static/js/3.a2b66bd1.chunk.js": "/semrush_test/static/js/3.a2b66bd1.chunk.js",
-    "static/js/3.a2b66bd1.chunk.js.map": "/semrush_test/static/js/3.a2b66bd1.chunk.js.map",
-    "index.html": "/semrush_test/index.html",
-    "static/css/main.e61ee7f2.chunk.css.map": "/semrush_test/static/css/main.e61ee7f2.chunk.css.map",
-    "static/js/2.77fb1e1b.chunk.js.LICENSE.txt": "/semrush_test/static/js/2.77fb1e1b.chunk.js.LICENSE.txt"
+    "main.css": "/loan_calculation/%D1%8B/static/css/main.e61ee7f2.chunk.css",
+    "main.js": "/loan_calculation/%D1%8B/static/js/main.b615e71b.chunk.js",
+    "main.js.map": "/loan_calculation/%D1%8B/static/js/main.b615e71b.chunk.js.map",
+    "runtime-main.js": "/loan_calculation/%D1%8B/static/js/runtime-main.2e6b9468.js",
+    "runtime-main.js.map": "/loan_calculation/%D1%8B/static/js/runtime-main.2e6b9468.js.map",
+    "static/js/2.b9d86f5b.chunk.js": "/loan_calculation/%D1%8B/static/js/2.b9d86f5b.chunk.js",
+    "static/js/2.b9d86f5b.chunk.js.map": "/loan_calculation/%D1%8B/static/js/2.b9d86f5b.chunk.js.map",
+    "static/js/3.a431cad1.chunk.js": "/loan_calculation/%D1%8B/static/js/3.a431cad1.chunk.js",
+    "static/js/3.a431cad1.chunk.js.map": "/loan_calculation/%D1%8B/static/js/3.a431cad1.chunk.js.map",
+    "index.html": "/loan_calculation/%D1%8B/index.html",
+    "static/css/main.e61ee7f2.chunk.css.map": "/loan_calculation/%D1%8B/static/css/main.e61ee7f2.chunk.css.map",
+    "static/js/2.b9d86f5b.chunk.js.LICENSE.txt": "/loan_calculation/%D1%8B/static/js/2.b9d86f5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f62e6241.js",
-    "static/js/2.77fb1e1b.chunk.js",
+    "static/js/runtime-main.2e6b9468.js",
+    "static/js/2.b9d86f5b.chunk.js",
     "static/css/main.e61ee7f2.chunk.css",
-    "static/js/main.474a8d32.chunk.js"
+    "static/js/main.b615e71b.chunk.js"
   ]
 }
