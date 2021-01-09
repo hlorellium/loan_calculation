@@ -124,16 +124,16 @@ const stringToNum = (str) => {
 
 const Calculator = () => {
     const [propertyPrice, setPropertyPrice] = useState(
-        localStorage.getItem('propertyPrice') || 0
+        parseInt(localStorage.getItem('propertyPrice')) || 0
     );
     const [initialFee, setInitialFee] = useState(
-        localStorage.getItem('initialFee') || 0
+        parseInt(localStorage.getItem('initialFee')) || 0
     );
     const [creditTerm, setCreditTerm] = useState(
-        localStorage.getItem('creditTerm') || 0
+        parseInt(localStorage.getItem('creditTerm')) || 0
     );
     const [interestRate, setInterestRate] = useState(
-        localStorage.getItem('interestRate') || 0
+        parseInt(localStorage.getItem('interestRate')) || 0
     );
 
     const loanBody = Math.round(propertyPrice - initialFee);
